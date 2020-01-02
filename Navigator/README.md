@@ -50,8 +50,8 @@ Results
 3. The plots of score vs episode are ploted as below.
 
 
-![simple DQN]('./imgs/simple_dqn.JPG')
-![double DQN]('./imgs/doubel_dqn.JPG)
+![simple DQN]("https://github.com/larui529/UdacityDeepReinforcementLearning/blob/master/Navigator/imgs/simple_dqn.JPG")
+![double DQN]('https://github.com/larui529/UdacityDeepReinforcementLearning/blob/master/Navigator/imgs/double_dqn.JPG')
 
 Future Work
 ========
